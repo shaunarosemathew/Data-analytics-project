@@ -1,9 +1,9 @@
 import cle.connector
 
 con = mysql.connector.connect(
-    host="127.0.0.1",
-    user="root",
-    password="system",
+    host="unknown ",
+    user="unknown ",
+    password="unknown ",
     database="addressbook"
 )
 
@@ -19,9 +19,9 @@ import cle.connector
 
 
 con = mysql.connector.connect(
-    host="127.0.0.1",
-    user="root",
-    password="system",
+    host="unknown ",
+    user="unknown ",
+    password="unknown ",
     database="addressbook"
 )
 
